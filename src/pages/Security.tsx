@@ -39,8 +39,8 @@ const Security = () => {
 
   const complianceItems = [
     "GDPR Compliant - No personal data processing",
-    "SOC 2 Aligned - Industry security standards",
-    "CCPA Compliant - California privacy requirements",
+    // "SOC 2 Aligned - Industry security standards",
+    // "CCPA Compliant - California privacy requirements",
     "ISO 27001 Practices - Information security management",
     "Chrome Web Store Policies - Verified extension"
   ];
