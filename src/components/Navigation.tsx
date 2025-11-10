@@ -59,7 +59,7 @@ const Navigation = () => {
             <div className="ml-4 pl-4 border-l border-border/50">
               <Button className="bg-gradient-to-r from-primary to-primary-dark hover:from-primary-dark hover:to-primary text-white font-medium px-6 py-2.5 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105" asChild>
                 <a
-                  href="https://chromewebstore.google.com"
+                  href="https://chromewebstore.google.com/detail/hlchmmhijeaglbmoglglollgloaogedg"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-2"
